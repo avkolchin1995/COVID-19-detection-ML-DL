@@ -25,11 +25,10 @@
 - Многослойный персептрон (Scikit-Learn),
 - Многослойный персептрон (Torch; в процессе разработки).
 6) Результаты
-| Алгоритм                                     | Средняя точность, % |
-|----------------------------------------------|---------------------|
-| K-Nearest Neighbours                         | 61                  |
-| Decision Tree                                | 77                  |
-| Random Forest Tree                           | 79                  |
-| Gradient Boosting                            | 79                  |
-| Multilayer Perceptron (scikit-learn)         | 61                  |
-
+| Алгоритм                                   | Средняя точность, % |
+|--------------------------------------------|---------------------|
+| K-Nearest Neighbours                       | 61                  |
+| Decision Tree                              | 77                  |
+| Random Forest Tree                         | 79                  |
+| Gradient Boosting                          | 79                  |
+| Multilayer Perceptron (scikit-learn)       | 61                  |
