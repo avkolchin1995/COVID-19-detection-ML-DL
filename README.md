@@ -31,5 +31,5 @@
   <tr><td>Decision Tree</td><td>77</td></tr>
   <tr><td>Random Forest Tree</td><td>79</td></tr>
   <tr><td>Gradient Boosting</td><td>79</td></tr>
-  <tr><td>Multilayer Perceptron (scikit-learn)</td><td>61</td></tr>
+  <tr><td>Multilayer Perceptron (scikit-learn)</td><td>51</td></tr>
 </table>
