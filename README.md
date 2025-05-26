@@ -27,8 +27,9 @@
 6) Результаты
 | Алгоритм                                     | Средняя точность, % |
 |----------------------------------------------|---------------------|
-| K-Nearest<br>Neighbours                      | 61                  |
-| Decision<br>Tree                             | 77                  |
-| Random Forest<br>Tree                        | 79                  |
-| Gradient<br>Boosting                         | 79                  |
-| Multilayer<br>Perceptron (scikit-learn)      | 61                  |
+| K-Nearest Neighbours                         | 61                  |
+| Decision Tree                                | 77                  |
+| Random Forest Tree                           | 79                  |
+| Gradient Boosting                            | 79                  |
+| Multilayer Perceptron (scikit-learn)         | 61                  |
+
